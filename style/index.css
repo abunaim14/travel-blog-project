@@ -5,3 +5,8 @@
 .head{
     background-color:teal;
 }
+.bimage{
+    background-image: url('../images/pietro-de-grandi-T7K4aEPoGGk-unsplash.jpg');
+    background-position:top;
+    height:800px;
+}
